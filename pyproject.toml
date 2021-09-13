@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "textalytics-python-client"
 version = "0.1.0"
-description = "python client to interface with textalytics hosted nlp"
+description = "python client to interface with textalytics hosted nlp service"
 authors = ["Manoj Bharadwaj <manoj@cloudcosmos.tech>"]
 license = "MIT"
 
