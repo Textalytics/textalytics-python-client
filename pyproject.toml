@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "textalytics-python-client"
-version = "0.1.0"
+version = "0.1.1"
 description = "python client to interface with textalytics hosted nlp service"
 authors = ["Manoj Bharadwaj <manoj@cloudcosmos.tech>"]
 license = "MIT"
@@ -10,8 +10,8 @@ packages = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-textalytics-core = "^0.1.1"
+python = "^3.8"
+textalytics-core = "^0.1.2"
 requests = "^2.26.0"
 
 [tool.poetry.dev-dependencies]
